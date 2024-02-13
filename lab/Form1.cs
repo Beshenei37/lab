@@ -12,6 +12,9 @@ namespace lab
             MessageBox.Show("Выполнено в ветке Антон Холиков");
         }
 
-       
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
